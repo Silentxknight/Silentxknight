@@ -9,7 +9,7 @@
 <img align="right" src="https://miro.medium.com/max/500/1*n-VXh4JodwPMDYnf-EfXfg.gif" align="right"  style="width: 30%;height:40vh; border-radius:5px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
 
 <br/>
-  <span> </span> <h3 style="font-weight:500">Rapidfire 💨:</h3> 
+  <span> </span> <h3 align="center" style="font-weight:500">Rapidfire 💨:</h3> 
 
 - 🔭 I’m currently working on [Fund Manager](#)  
   
