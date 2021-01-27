@@ -6,7 +6,7 @@
 ### <div align="left"><h2>Hi there, I'm <strong >Somyajyoti</strong> a student of <span style="font-weight:500" > Computer Science</span> 👨‍💻 working as an <span style="font-weight:500" > Intern</span> too! 🚀</h2></div>  
 
 <div align="right">
-<img src="https://miro.medium.com/max/500/1*n-VXh4JodwPMDYnf-EfXfg.gif" align="right"  style="width: 30%;height:60vh; border-radius:5px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
+<img src="https://miro.medium.com/max/500/1*n-VXh4JodwPMDYnf-EfXfg.gif" align="right"  style="width: 30%;height:40vh; border-radius:5px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
 </div>
 <br>
   <span> </span> <h3 style="font-weight:500">Rapidfire 💨:</h3> 
