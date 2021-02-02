@@ -32,7 +32,7 @@
 * 💻 Love listening to music!
 * 🌐 Searching...
 * 😢 Strugling with Time 
-* 📺 Loves to see Web series and Movies. 
+* 📺 Loves to watch Web series and Movies. 
 <!-- * 📖 Learning Backend Web Development -->
 <br/>  
 <br/>
