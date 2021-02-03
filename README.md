@@ -11,7 +11,7 @@
 <br/>
   <span> </span> <h3 align="left" style="font-weight:500">Rapidfire 💨:</h3> 
 
-- 🔭 I’m currently working on [Fund Manager](#)  
+- 🔭 I’m currently working on [Fund Manager](https://github.com/Silentxknight/Fund-Manager--Vanila-Js-)  
   
 
 - 🌱 I’m currently learning AWS and Angular Core  
