@@ -29,7 +29,7 @@
   <span> </span> <h3 style="font-weight:500">Who am I 🤔?:</h3> 
 
 * 👨‍🎓 Student of Computer Science.
-* 💻 Love listening to music!
+* 💻 Music makes the Bug goaway!
 * 🌐 Searching...
 * 😢 Strugling with Time 
 * 📺 Loves to watch Web series and Movies. 
