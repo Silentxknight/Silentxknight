@@ -145,8 +145,16 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=silentxknight&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Silentxknight&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>  
+<br/> 
+<div align="center">
+
+![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentxknight)
+</div>  
 <!-- ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
