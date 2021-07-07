@@ -20,8 +20,8 @@
 - 🔥 An agile learner!  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: Confusion🤔 is the Future🔮
+<!--   I use tabs over spaces   -->
 <!-- 
 <br/>   -->
 
