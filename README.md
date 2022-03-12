@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [fireflix](https://github.com/Silentxknight/fireflix)  
   
 
-- 🌱 I’m currently learning AWS and Angular Core  
+- 🌱 I’m currently learning AWS and React Core  
   
 
 - 🔥 An agile learner!  
